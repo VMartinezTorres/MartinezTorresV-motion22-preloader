@@ -31,7 +31,7 @@
     },
     "\/deploy\/img\/hero.jpg" : {
       "ft" : 16384,
-      "iS" : 282360,
+      "iS" : 6199077,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/hero.jpg",
@@ -100,8 +100,8 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/preloader.html",
-      "oF" : 0
+      "oAP" : "\/Users\/victoramartineztorres\/Documents\/GitHub\/2022 motion\/Vmartinez-2022 motion\/VMT-Motion22\/deploy\/preloader.html",
+      "oF" : 6
     },
     "\/dev\/global\/head.kit" : {
       "cB" : 0,
@@ -132,17 +132,17 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/index.html",
-      "oF" : 0
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 2
     },
     "\/dev\/js\/scripts.js" : {
-      "bF" : 0,
+      "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/dev\/js\/scripts-min.js",
-      "oF" : 0,
+      "oAP" : "\/deploy\/js\/scripts-min.js",
+      "oF" : 2,
       "sC" : 3,
       "tS" : 0
     },
@@ -344,8 +344,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/scss\/styles.css",
-      "oF" : 0,
+      "oAP" : "\/deploy\/css\/styles.css",
+      "oF" : 2,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -441,7 +441,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 649104598.99548197,
-    "displayValue" : "MartinezTorresV-motion22-preloader",
+    "displayValue" : "Vmartinez-Motion-F22",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-glace",
     "iconImageWasSetByUser" : 0
